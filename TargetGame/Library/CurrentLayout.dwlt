@@ -1,0 +1,1368 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 8
+    y: 51
+    width: 1899
+    height: 991
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 950, y: 542}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 820
+    width: 277
+    height: 121
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1500
+    y: 0
+    width: 122
+    height: 271
+  m_MinSize: {x: 104, y: 121}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 14}
+  - {fileID: 3}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 670
+    width: 1622
+    height: 271
+  m_MinSize: {x: 336, y: 271}
+  m_MaxSize: {x: 14006, y: 10021}
+  vertical: 0
+  controlID: 80
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 15}
+  - {fileID: 2}
+  m_Position:
+    serializedVersion: 2
+    x: 1622
+    y: 0
+    width: 277
+    height: 941
+  m_MinSize: {x: 277, y: 192}
+  m_MaxSize: {x: 4002, y: 8042}
+  vertical: 1
+  controlID: 197
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 9}
+  - {fileID: 8}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1899
+    height: 991
+  m_MinSize: {x: 950, y: 542}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1899
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 971
+    width: 1899
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 10}
+  - {fileID: 5}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1899
+    height: 941
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
+  vertical: 0
+  controlID: 196
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 11}
+  - {fileID: 4}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1622
+    height: 941
+  m_MinSize: {x: 406, y: 492}
+  m_MaxSize: {x: 14006, y: 14042}
+  vertical: 1
+  controlID: 12
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 12}
+  - {fileID: 13}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1622
+    height: 670
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
+  vertical: 0
+  controlID: 13
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 202
+    height: 670
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 202
+    y: 0
+    width: 1420
+    height: 670
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 20}
+  m_Panes:
+  - {fileID: 20}
+  - {fileID: 16}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1500
+    height: 271
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 21}
+  m_Panes:
+  - {fileID: 21}
+  - {fileID: 22}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 277
+    height: 820
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 23}
+  m_Panes:
+  - {fileID: 23}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 212
+    y: 100
+    width: 1416
+    height: 649
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    m_HBaseRangeMin: -708
+    m_HBaseRangeMax: 708
+    m_VBaseRangeMin: -316
+    m_VBaseRangeMax: 316
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoom: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 1416
+      height: 632
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 708, y: 316}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -708
+      y: -316
+      width: 1416
+      height: 632
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1416, y: 649}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1632
+    y: 920
+    width: 275
+    height: 100
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TestTypeToolbarIndex: 1
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 0}
+    newResultList: []
+    m_ResultText: 
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories: []
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 17}
+    newResultList:
+    - id: '[TargetGame][suite]'
+      name: TargetGame
+      fullName: TargetGame
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+    - id: '[D:/UNITY-beta/TargetGame/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+      name: Assembly-CSharp-Editor.dll
+      fullName: D:/UNITY-beta/TargetGame/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      resultStatus: 1
+      duration: 0.0720524
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+    - id: '[Assembly-CSharp-Editor][Ammunition_Bullet][suite]'
+      name: Ammunition_Bullet
+      fullName: Ammunition_Bullet
+      resultStatus: 1
+      duration: 0.2501605
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+    - id: '[Assembly-CSharp-Editor][Ammunition_Bullet.Ammunition_Bullet_CorrectPlayerSetting]'
+      name: Ammunition_Bullet_CorrectPlayerSetting
+      fullName: Ammunition_Bullet.Ammunition_Bullet_CorrectPlayerSetting
+      resultStatus: 1
+      duration: 0.0355855
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Ammunition_Bullet.Ammunition_Bullet_CorrectStrengthSetting]'
+      name: Ammunition_Bullet_CorrectStrengthSetting
+      fullName: Ammunition_Bullet.Ammunition_Bullet_CorrectStrengthSetting
+      resultStatus: 1
+      duration: 0.0272418
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Ammunition_Bullet.Ammunition_Bullet_OnHit_DisableOnFire]'
+      name: Ammunition_Bullet_OnHit_DisableOnFire
+      fullName: Ammunition_Bullet.Ammunition_Bullet_OnHit_DisableOnFire
+      resultStatus: 1
+      duration: 0.0285404
+      messages: 
+      output: "False\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Ammunition_Bullet.Ammunition_Bullet_OnHit_NotPlayerCanKillType]'
+      name: Ammunition_Bullet_OnHit_NotPlayerCanKillType
+      fullName: Ammunition_Bullet.Ammunition_Bullet_OnHit_NotPlayerCanKillType
+      resultStatus: 1
+      duration: 0.0432429
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Ammunition_Bullet.Ammunition_Bullet_OnHit_PlayerCanKillType]'
+      name: Ammunition_Bullet_OnHit_PlayerCanKillType
+      fullName: Ammunition_Bullet.Ammunition_Bullet_OnHit_PlayerCanKillType
+      resultStatus: 1
+      duration: 0.0295885
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Demon_TreeDemon][suite]'
+      name: Demon_TreeDemon
+      fullName: Demon_TreeDemon
+      resultStatus: 1
+      duration: 0.0497954
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+    - id: '[Assembly-CSharp-Editor][Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_CorrectAmmoDetection]'
+      name: DemonTests_TreeDemon_HitByPlayerAmmunition_CorrectAmmoDetection
+      fullName: Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_CorrectAmmoDetection
+      resultStatus: 1
+      duration: 0.0237887
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_CorrectHitPlayerDetection]'
+      name: DemonTests_TreeDemon_HitByPlayerAmmunition_CorrectHitPlayerDetection
+      fullName: Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_CorrectHitPlayerDetection
+      resultStatus: 1
+      duration: 0.019247
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_CorrectHitPowerDetection]'
+      name: DemonTests_TreeDemon_HitByPlayerAmmunition_CorrectHitPowerDetection
+      fullName: Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_CorrectHitPowerDetection
+      resultStatus: 1
+      duration: 0.029172
+      messages: 
+      output: "System.NullReferenceException: Object reference not set to an instance
+        of an object\r\n  at PlayerRelaxedMan.ReceiveReward (RewardTypes Rewardtype,
+        Single RewardValue) [0x00146] in D:\\UNITY-beta\\TargetGame\\Assets\\Scripts\\Implementation\\PlayerRelaxedMan.cs:106
+        \r\nSCORE!!\r\nManRelax rewarded 100 points\r\nDemon - TreeDemon- Dead!\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_GotKilled]'
+      name: DemonTests_TreeDemon_HitByPlayerAmmunition_GotKilled
+      fullName: Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_GotKilled
+      resultStatus: 1
+      duration: 0.027035
+      messages: 
+      output: "System.NullReferenceException: Object reference not set to an instance
+        of an object\r\n  at PlayerRelaxedMan.ReceiveReward (RewardTypes Rewardtype,
+        Single RewardValue) [0x00146] in D:\\UNITY-beta\\TargetGame\\Assets\\Scripts\\Implementation\\PlayerRelaxedMan.cs:106
+        \r\nSCORE!!\r\nManRelax rewarded 100 points\r\nDemon - TreeDemon- Dead!\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_NotKilled]'
+      name: DemonTests_TreeDemon_HitByPlayerAmmunition_NotKilled
+      fullName: Demon_TreeDemon.DemonTests_TreeDemon_HitByPlayerAmmunition_NotKilled
+      resultStatus: 1
+      duration: 0.0194349
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Demon_TreeDemon.DemonTests_TreeDemon_Initialization]'
+      name: DemonTests_TreeDemon_Initialization
+      fullName: Demon_TreeDemon.DemonTests_TreeDemon_Initialization
+      resultStatus: 1
+      duration: 0.0181603
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Demon_TreeDemon.DemonTests_TreeDemon_KilledPlayer]'
+      name: DemonTests_TreeDemon_KilledPlayer
+      fullName: Demon_TreeDemon.DemonTests_TreeDemon_KilledPlayer
+      resultStatus: 1
+      duration: 0.0424399
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Demon_TreeDemon.DemonTests_TreeDemon_PlayerScoreSet]'
+      name: DemonTests_TreeDemon_PlayerScoreSet
+      fullName: Demon_TreeDemon.DemonTests_TreeDemon_PlayerScoreSet
+      resultStatus: 1
+      duration: 0.0283519
+      messages: 
+      output: "System.NullReferenceException: Object reference not set to an instance
+        of an object\r\n  at PlayerRelaxedMan.ReceiveReward (RewardTypes Rewardtype,
+        Single RewardValue) [0x00146] in D:\\UNITY-beta\\TargetGame\\Assets\\Scripts\\Implementation\\PlayerRelaxedMan.cs:106
+        \r\nSCORE!!\r\nManRelax rewarded 100 points\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Player_RelaxedMan][suite]'
+      name: Player_RelaxedMan
+      fullName: Player_RelaxedMan
+      resultStatus: 1
+      duration: 0.0500346
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+    - id: '[Assembly-CSharp-Editor][Player_RelaxedMan.PlayerTest_Relaxedman_GotKilled]'
+      name: PlayerTest_Relaxedman_GotKilled
+      fullName: Player_RelaxedMan.PlayerTest_Relaxedman_GotKilled
+      resultStatus: 1
+      duration: 0.0309254
+      messages: 
+      output: "True\r\nFalse\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Player_RelaxedMan.PlayerTest_Relaxedman_NotKilled]'
+      name: PlayerTest_Relaxedman_NotKilled
+      fullName: Player_RelaxedMan.PlayerTest_Relaxedman_NotKilled
+      resultStatus: 1
+      duration: 0.028221
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_EnemyKill]'
+      name: PlayerTest_Relaxedman_ReceiveReward_EnemyKill
+      fullName: Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_EnemyKill
+      resultStatus: 1
+      duration: 0.0236286
+      messages: 
+      output: "System.NullReferenceException: Object reference not set to an instance
+        of an object\r\n  at PlayerRelaxedMan.ReceiveReward (RewardTypes Rewardtype,
+        Single RewardValue) [0x00146] in D:\\UNITY-beta\\TargetGame\\Assets\\Scripts\\Implementation\\PlayerRelaxedMan.cs:106
+        \r\nSCORE!!\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_PowerUp]'
+      name: PlayerTest_Relaxedman_ReceiveReward_PowerUp
+      fullName: Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_PowerUp
+      resultStatus: 1
+      duration: 0.0240451
+      messages: 
+      output: "System.NullReferenceException: Object reference not set to an instance
+        of an object\r\n  at PlayerRelaxedMan.ReceiveReward (RewardTypes Rewardtype,
+        Single RewardValue) [0x00101] in D:\\UNITY-beta\\TargetGame\\Assets\\Scripts\\Implementation\\PlayerRelaxedMan.cs:93
+        \r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_PowerUp_MaxCondition]'
+      name: PlayerTest_Relaxedman_ReceiveReward_PowerUp_MaxCondition
+      fullName: Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_PowerUp_MaxCondition
+      resultStatus: 1
+      duration: 0.0369151
+      messages: 
+      output: "System.NullReferenceException: Object reference not set to an instance
+        of an object\r\n  at PlayerRelaxedMan.ReceiveReward (RewardTypes Rewardtype,
+        Single RewardValue) [0x00101] in D:\\UNITY-beta\\TargetGame\\Assets\\Scripts\\Implementation\\PlayerRelaxedMan.cs:93
+        \r\n10\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_SizeUp]'
+      name: PlayerTest_Relaxedman_ReceiveReward_SizeUp
+      fullName: Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_SizeUp
+      resultStatus: 1
+      duration: 0.02257
+      messages: 
+      output: "System.NullReferenceException: Object reference not set to an instance
+        of an object\r\n  at PlayerRelaxedMan.ReceiveReward (RewardTypes Rewardtype,
+        Single RewardValue) [0x00070] in D:\\UNITY-beta\\TargetGame\\Assets\\Scripts\\Implementation\\PlayerRelaxedMan.cs:76
+        \r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_SizeUp_MaxCondition]'
+      name: PlayerTest_Relaxedman_ReceiveReward_SizeUp_MaxCondition
+      fullName: Player_RelaxedMan.PlayerTest_Relaxedman_ReceiveReward_SizeUp_MaxCondition
+      resultStatus: 1
+      duration: 0.0375186
+      messages: 
+      output: "System.NullReferenceException: Object reference not set to an instance
+        of an object\r\n  at PlayerRelaxedMan.ReceiveReward (RewardTypes Rewardtype,
+        Single RewardValue) [0x00070] in D:\\UNITY-beta\\TargetGame\\Assets\\Scripts\\Implementation\\PlayerRelaxedMan.cs:76
+        \r\n4\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][RewardPortalTests][suite]'
+      name: RewardPortalTests
+      fullName: RewardPortalTests
+      resultStatus: 1
+      duration: 0.1659513
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+    - id: '[Assembly-CSharp-Editor][RewardPortalTests.RewardPortal_GiveReward]'
+      name: RewardPortal_GiveReward
+      fullName: RewardPortalTests.RewardPortal_GiveReward
+      resultStatus: 1
+      duration: 0.0302934
+      messages: 
+      output: "System.NullReferenceException: Object reference not set to an instance
+        of an object\r\n  at PlayerRelaxedMan.ReceiveReward (RewardTypes Rewardtype,
+        Single RewardValue) [0x00101] in D:\\UNITY-beta\\TargetGame\\Assets\\Scripts\\Implementation\\PlayerRelaxedMan.cs:93
+        \r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][RewardPortalTests.RewardPortal_Hit_Disable]'
+      name: RewardPortal_Hit_Disable
+      fullName: RewardPortalTests.RewardPortal_Hit_Disable
+      resultStatus: 1
+      duration: 0.0253998
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][RewardPortalTests.RewardPortal_Hit_NotDisable]'
+      name: RewardPortal_Hit_NotDisable
+      fullName: RewardPortalTests.RewardPortal_Hit_NotDisable
+      resultStatus: 1
+      duration: 0.0204538
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][RewardPortalTests.RewardPortal_PoolingCommunication]'
+      name: RewardPortal_PoolingCommunication
+      fullName: RewardPortalTests.RewardPortal_PoolingCommunication
+      resultStatus: 1
+      duration: 0.032542
+      messages: 
+      output: "ObjectPoolerObject Pool Initialized:10\r\n9\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][ShootDevice_Gun][suite]'
+      name: ShootDevice_Gun
+      fullName: ShootDevice_Gun
+      resultStatus: 1
+      duration: 0.2547454
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+    - id: '[Assembly-CSharp-Editor][ShootDevice_Gun.ShootDevice_Gun_AmmoPoolCorrectSize]'
+      name: ShootDevice_Gun_AmmoPoolCorrectSize
+      fullName: ShootDevice_Gun.ShootDevice_Gun_AmmoPoolCorrectSize
+      resultStatus: 1
+      duration: 0.0254301
+      messages: 
+      output: "ObjectPoolerObject Pool Initialized:40\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][ShootDevice_Gun.ShootDevice_Gun_AmmoPoolCreated]'
+      name: ShootDevice_Gun_AmmoPoolCreated
+      fullName: ShootDevice_Gun.ShootDevice_Gun_AmmoPoolCreated
+      resultStatus: 1
+      duration: 0.0197667
+      messages: 
+      output: "ObjectPoolerObject Pool Initialized:20\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][ShootDevice_Gun.ShootDevice_Gun_AmmoPoolExpansion]'
+      name: ShootDevice_Gun_AmmoPoolExpansion
+      fullName: ShootDevice_Gun.ShootDevice_Gun_AmmoPoolExpansion
+      resultStatus: 1
+      duration: 0.0368144
+      messages: 
+      output: "ObjectPoolerObject Pool Initialized:10\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][ShootDevice_Gun.ShootDevice_Gun_AmmoPoolExpansion_ToMaxSize]'
+      name: ShootDevice_Gun_AmmoPoolExpansion_ToMaxSize
+      fullName: ShootDevice_Gun.ShootDevice_Gun_AmmoPoolExpansion_ToMaxSize
+      resultStatus: 1
+      duration: 0.0369989
+      messages: 
+      output: "ObjectPoolerObject Pool Initialized:10\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][ShootDevice_Gun.ShootDevice_Gun_AmmoPoolShotfired]'
+      name: ShootDevice_Gun_AmmoPoolShotfired
+      fullName: ShootDevice_Gun.ShootDevice_Gun_AmmoPoolShotfired
+      resultStatus: 1
+      duration: 0.035316
+      messages: 
+      output: "ObjectPoolerObject Pool Initialized:10\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    - id: '[Assembly-CSharp-Editor][ShootDevice_Gun.ShootDevice_Gun_ShootLocationPicked]'
+      name: ShootDevice_Gun_ShootLocationPicked
+      fullName: ShootDevice_Gun.ShootDevice_Gun_ShootLocationPicked
+      resultStatus: 1
+      duration: 0.0200825
+      messages: 
+      output: "ObjectPoolerObject Pool Initialized:20\r\n"
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+    m_ResultText: PlayerTest_Relaxedman_NotKilled (0.028s)
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 7ff5e660
+      m_LastClickedID: 1625748863
+      m_ExpandedIDs: 2eee19a8c76a424c618f9d5affffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories: []
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12070, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Profiler
+    m_Image: {fileID: 248956144125838126, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1510
+    y: 770
+    width: 118
+    height: 250
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_Recording: 1
+  m_ActiveNativePlatformSupportModule: 
+  m_ViewType: 0
+  m_CurrentArea: 0
+  m_ShowInactiveDSPChains: 0
+  m_HighlightAudibleDSPChains: 1
+  m_DSPGraphZoomFactor: 1
+  m_CPUHierarchyGUI:
+    m_SortType: 5
+  m_GPUHierarchyGUI:
+    m_SortType: 8
+  m_HierarchyViewDetailPaneType: 0
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 100
+    width: 200
+    height: 649
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 16f9ffff
+    m_LastClickedID: -1770
+    m_ExpandedIDs: 98fbffff00000000662e0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 12}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - TerrainScene
+  m_CurrenRootInstanceID: 0
+  m_Locked: 0
+  m_CurrentSortingName: TransformSorting
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 1
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 32
+  m_Pos:
+    serializedVersion: 2
+    x: 212
+    y: 100
+    width: 1416
+    height: 649
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 203.82081584427047
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 101.58309, y: 45.045105, z: 116.8303}
+    speed: 2
+    m_Value: {x: 101.58309, y: 45.045105, z: 116.8303}
+  m_RenderMode: 0
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+    zGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+  m_Rotation:
+    m_Target: {x: -0.04291542, y: -0.29951295, z: 0.013487187, w: -0.9530311}
+    speed: 2
+    m_Value: {x: -0.04291542, y: -0.29951295, z: 0.013487187, w: -0.9530311}
+  m_Size:
+    m_Target: 7.6470017
+    speed: 2
+    m_Value: 7.6470017
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.2718264, y: 0.52000904, z: -0.17898874, w: -0.7897241}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 770
+    width: 1498
+    height: 250
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_ScenePaths: []
+    m_ShowAllHits: 0
+    m_SearchArea: 0
+    m_Folders:
+    - Assets/Final
+  m_ViewMode: 1
+  m_StartGridSize: 96
+  m_LastFolders:
+  - Assets/Final
+  m_LastFoldersGridSize: 96
+  m_LastProjectPath: D:\UNITY-beta\TargetGame
+  m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 95}
+    m_SelectedIDs: a62d0000
+    m_LastClickedID: 11686
+    m_ExpandedIDs: 00000000a4290000ac290000f0290000142a00002a2c00003e2c0000022d0000222d0000502d0000602d0000a62d0000fc2d0000242e0000603800006238000000ca9a3bffffff7f
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 14}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000a4290000ac290000f0290000142a00002a2c00003e2c0000022d0000222d0000502d0000602d0000a62d0000fc2d0000242e00006038000062380000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000663200004a310000fe3100008a2a0000842a0000982a0000182b000000000000a45200001c86dfff3026e0ff
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 14}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 96
+  m_DirectoriesAreaWidth: 196
+--- !u!114 &22
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 733
+    width: 1496
+    height: 287
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &23
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_DepthBufferBits: 0
+  m_Pos:
+    serializedVersion: 2
+    x: 1632
+    y: 100
+    width: 275
+    height: 799
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ScrollPosition: {x: 0, y: 0}
+  m_InspectorMode: 0
+  m_PreviewResizer:
+    m_CachedPref: -122
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
